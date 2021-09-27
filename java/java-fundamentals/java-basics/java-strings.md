@@ -9,6 +9,9 @@ revisionQuestion:
 ---
 
 # Java `Strings`
+int num;
+num=1;
+System.out.println(num*4);
 
 
 ---
